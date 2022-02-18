@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Demo
-<img src="demo.gif" width="300" style="border-radius:20px">
+<img src="demo.gif" width="300" style="border-radius:50%">
 
 This app is only the front end of class routine app. The backend is not yet implemented! 
