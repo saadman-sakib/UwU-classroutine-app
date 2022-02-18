@@ -48,6 +48,7 @@ class _MyAppState extends State<MyApp> {
         body: ScrollNavigation(
           identiferStyle: NavigationIdentiferStyle(
             color: const Color.fromARGB(255, 107, 170, 123),
+            width: 6,
           ),
           barStyle: NavigationBarStyle(
             activeColor: const Color.fromARGB(255, 107, 170, 123),
